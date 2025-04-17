@@ -47,6 +47,7 @@ public class AdminPanelScript : MonoBehaviour
                 kLight[2].GetComponent<Light>().intensity = kLight[2].GetComponent<Light>().intensity == minIntensity ? maxIntensity : minIntensity;
                 _timer = 0;
             }
+
         }
     }
 
