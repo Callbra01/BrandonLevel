@@ -7,6 +7,7 @@ TagManager:
   - Fire
   - F1_E
   - F2_E
+  - Admin
   layers:
   - Default
   - TransparentFX
