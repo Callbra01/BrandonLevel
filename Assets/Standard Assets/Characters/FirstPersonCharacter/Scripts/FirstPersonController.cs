@@ -27,6 +27,7 @@ public class FirstPersonController : MonoBehaviour
     [SerializeField] private AudioClip m_JumpSound;           // the sound played when character leaves the ground.
     [SerializeField] private AudioClip m_LandSound;           // the sound played when character touches back on ground.
 
+    
     public bool bHasEndKey = false;
     public int bKeyCount = 0;
     public bool attemptKeyGrab = false;
